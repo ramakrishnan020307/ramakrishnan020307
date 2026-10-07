@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 HELLO WORLD
 
-<!--
-**ramakrishnan020307/ramakrishnan020307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>😎 I'M RAMKRISHNAN!</h2>
 
-Here are some ideas to get you started:
+### 💻 Computer Science Student | Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Computer Science student passionate about software development, automation, and building real-world applications.
+
+- 🎓 Computer Science Student
+- 🐍 Currently learning Python & Java
+- 🧪 Learning Selenium & Playwright for Automation Testing
+- 🌐 Exploring React & Node.js for Full-Stack Development
+- 🍃 Learning Spring Boot & MongoDB
+- 🚀 Interested in building innovative projects and solving real-world problems
+- 📚 Always learning and improving my technical skills
+
+### 🛠️ TECH STACK
+
+**Languages:**  
+🐍 Python | ☕ Java
+
+**Frontend:**  
+⚛️ React
+
+**Backend:**  
+🟢 Node.js | 🌱 Spring Boot
+
+**Database:**  
+🍃 MongoDB
+
+**Automation & Testing:**  
+🧪 Selenium | 🎭 Playwright
+
+---
+
+### 🌱 CURRENTLY LEARNING
+
+Python • Java • Selenium • Playwright • React • Node.js • Spring Boot • MongoDB
+
+### 🚀 KEEP LEARNING. KEEP BUILDING. KEEP GROWING.
